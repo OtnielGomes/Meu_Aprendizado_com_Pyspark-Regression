@@ -1,4 +1,4 @@
-# Regressão com pySpark
+# Meu Aprendizado de Regressão com pySpark
 Olá, nesse projeto vamos trabalhar com algumas técnicas de regressão utilizando o pyspark.
 Vamos utilizar o LinearRegression, DecisionTree e RandomForestRegressor para montar as nossas regressões e previsões.
 O conjunto de dados utilizado será o: Imoveis.json, é um conjunto de dados com diversas características e informações 
@@ -9,7 +9,6 @@ os preços dos imóveis de acordo com suas características baseado nesse conjun
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
