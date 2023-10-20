@@ -7,16 +7,16 @@ os preços dos imóveis de acordo com suas características baseado nesse conjun
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-**[Arquivo do projeto]([#-implanta%C3%A7%C3%A3o](https://github.com/OtnielGomes/My_Learning_With_Pyspark-Regression/archive/refs/heads/main.zip))**
+No link abaixo você pode obter uma cópia do projeto
+* [Cópia do Projeto](https://github.com/OtnielGomes/My_Learning_With_Pyspark-Regression/archive/refs/heads/main.zip)
 
-### 📋 Pré-requisitos
+Ferramentas ultilizadas:
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+* [Anaconda-Navigator](https://www.anaconda.com/)
+* [Jupyter NoteBook](https://jupyter.org/install)
+* [Python-3](https://www.python.org/downloads/)
+* [Spark-3.5.0-bin-hadoop3.tgz](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.0/spark-3.5.0-bin-hadoop3.tgz)
 
-```
-Dar exemplos
-```
 
 ### 🔧 Instalação
 
